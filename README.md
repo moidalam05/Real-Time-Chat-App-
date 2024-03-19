@@ -31,3 +31,9 @@ npm run build
 ```shell
 npm start
 ```
+
+## Contribution:
+1. Contributions are welcome! Fork the repository, make improvements, and submit pull requests to enhance the Real-Time Chat App.
+2. Report bugs or suggest enhancements by opening an issue on the GitHub repository.
+   
+Start chatting in real-time with friends and colleagues using the Real-Time Chat App today! 🚀
