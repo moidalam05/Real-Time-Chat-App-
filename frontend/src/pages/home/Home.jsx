@@ -2,11 +2,11 @@ import MessageContainer from "../../components/messages/MessageContainer";
 import Sidebar from "../../components/sidebar/Sidebar";
 
 const Home = () => {
-	return (
-		<div className='flex sm:h-[450px] md:h-[550px] rounded-lg overflow-hidden bg-gray-400 bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-0'>
-			<Sidebar />
-			<MessageContainer />
-		</div>
-	);
+  return (
+    <div className="flex justify-between w-full h-screen bg-gray-400 bg-opacity-0 rounded-lg">
+      <Sidebar />
+      <MessageContainer />
+    </div>
+  );
 };
 export default Home;
